@@ -28,6 +28,10 @@ software.
 TestRight Academy features these providers as a convenience for collectors and C/TPAs.
 They are independent businesses; we do not resell or administer their services.
 
+TestRight also publishes a separate
+[laboratory directory](https://testrightacademy.com/drug-testing-labs) of HHS-certified
+labs.
+
 ---
 
 <sub>Published by <a href="https://testrightacademy.com">TestRight Academy</a> — DOT
