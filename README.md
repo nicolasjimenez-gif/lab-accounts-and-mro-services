@@ -23,18 +23,10 @@ software.
 
 **National Drug Screening (NDS)** — [nationaldrugscreening.com](https://www.nationaldrugscreening.com)
 
-## What it is not
+## About these providers
 
-This is a featured list, not a directory and not an endorsement of every service a
-provider sells. Featured placement means the provider is listed here — it does not mean
-TestRight has audited their pricing, their turnaround, or their fit for your business.
-
-It is also not the full laboratory list. TestRight publishes a separate
-[laboratory directory](https://testrightacademy.com/drug-testing-labs) of HHS-certified
-labs.
-
-Choosing a lab and an MRO is your decision and your contractual relationship. Compare on
-your own terms.
+TestRight Academy features these providers as a convenience for collectors and C/TPAs.
+They are independent businesses; we do not resell or administer their services.
 
 ---
 
